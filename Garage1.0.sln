@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Garage1.0", "Garage1.0.csproj", "{60767512-CCC6-40EF-8177-26F4B04407AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarageUnitTests", "..\GarageUnitTests\GarageUnitTests.csproj", "{230E1859-82FB-41D5-81A6-650F2EBBC41C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60767512-CCC6-40EF-8177-26F4B04407AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60767512-CCC6-40EF-8177-26F4B04407AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60767512-CCC6-40EF-8177-26F4B04407AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60767512-CCC6-40EF-8177-26F4B04407AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230E1859-82FB-41D5-81A6-650F2EBBC41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230E1859-82FB-41D5-81A6-650F2EBBC41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230E1859-82FB-41D5-81A6-650F2EBBC41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230E1859-82FB-41D5-81A6-650F2EBBC41C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA087215-4E6F-47A3-8F69-D1FEF4B71C33}
+	EndGlobalSection
+EndGlobal
